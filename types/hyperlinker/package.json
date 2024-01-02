@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hyperlinker",
+    "version": "1.0.9999",
+    "projects": [
+        "https://github.com/jamestalmage/hyperlinker#readme"
+    ],
+    "devDependencies": {
+        "@types/hyperlinker": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Elliana May",
+            "githubUsername": "Mause"
+        }
+    ]
+}
